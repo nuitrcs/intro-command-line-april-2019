@@ -28,6 +28,9 @@ You can find links to additional resources in our main workshop repositories:
 
 
 ## Cheatsheets
+[Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) with just the essentials, plus short explanations of key concepts
+
+[vi Handout](https://nuitrcs.github.io/commandlineworkshop/vibasics.pdf): handout from the workshop
 
 ## Acknowledgements
 
