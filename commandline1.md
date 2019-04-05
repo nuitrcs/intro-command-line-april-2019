@@ -1,11 +1,11 @@
 # Command Line Session 1
 
 ---
-This is the material we'll cover during the second part of the workshop (Day 2 morning).  We may deviate a little, but we'll work from this.
+This is the material that we will cover in the introductory part of the workshop. We may deviate a little, but we'll work from this.
 
-We're changing gears and working exclusively in Command line. 
+We will be working exclusively in Command line while this is available for you online. 
 
-Goal for this morning is to get accustomed to command line environment and be able to find your way, run the script and few more fun staff at the end of the morning.
+Goal of this workshop is to get accustomed to command line environment and be able to find your way, run the scripts and few more fun staff at the end of the journey.
 
 Questions for the first part:
 - "What is a command shell and why would I use one?"
