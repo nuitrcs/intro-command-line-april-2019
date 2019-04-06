@@ -12,7 +12,7 @@ Please install the following software on your laptop before the workshop.  If yo
 
 ## Files
 
-In addition to the software above, you also need to download a .zip file for the command line portion of the workshop.  
+In addition to the software above, you also need to download a .zip file that will guarantee the same environment for all participants.  
 
 [Download](https://github.com/nuitrcs/commandlineworkshop/blob/master/shell-novice-data.zip?raw=true)
 
