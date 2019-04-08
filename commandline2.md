@@ -757,8 +757,8 @@ and we will see it in many other tools as we go on.
 * cd path changes the current working directory.
 * ls path prints a listing of a specific file or directory; ls on its own lists the current working directory.
 * pwd prints the user’s current working directory.
-* / on its own is the root directory of the whole file system.
+* `/` on its own is the root directory of the whole file system.
 * A relative path specifies a location starting from the current location.
 * An absolute path specifies a location from the root of the file system.
-* Directory names in a path are separated with / on Unix, but \ on Windows.
-* .. means ‘the directory above the current one’; . on its own means ‘the current directory’.
+* Directory names in a path are separated with `/` on Unix, but `\` on Windows.
+* `..` means ‘the directory above the current one’; `.` on its own means ‘the current directory’.
