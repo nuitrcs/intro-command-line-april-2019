@@ -222,7 +222,7 @@ to use a command and what flags it accepts:
     ~~~bash
     $ ls --help
     ~~~
-(Note: -h with most of other commands would give you help as we spoke about that during yesterday's afternoon session. Here, however, -h means human readable and will give you sizes in human readable format)
+(Note: -h with most of other commands would give you help. Here, however, -h means human readable and will give you sizes in human readable format)
 
 2. We can read its manual with `man`, such as:
     ~~~bash
