@@ -391,18 +391,6 @@ Oftentimes one needs to copy or move several files at once. This can be done by 
 
 [Exercise](commandline-exercise3.md#List-filenames-matching-a-pattern)
 
-## List filenames matching a pattern
-
-When run in the `molecules` directory, which `ls` command(s) will
-produce this output?
-
-`ethane.pdb   methane.pdb`
-
-1. `ls *t*ane.pdb`
-2. `ls *t?ne.*`
-3. `ls *t??ne.pdb`
-4. `ls ethane.*`
-
 [Exercise](commandline-exercise3.md#More-on-Wildcards)
 
 [Exercise](commandline-exercise3.md#Organizing-Directories-and-Files)
