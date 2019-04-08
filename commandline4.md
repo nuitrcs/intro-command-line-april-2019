@@ -329,7 +329,7 @@ so that you and other people can put those programs into pipes to multiply their
 > standard input.
 
 
-[Exercise](commandline-exercise4.md#What-Does-<-Mean)
+[Exercise](commandline-exercise4.md#What-Does-the-Opposite-redirection-sign-Mean)
 
 [Exercise](commandline-exercise4.md#Why-Does-uniq-Only-Remove-Adjacent-Duplicates)
 
