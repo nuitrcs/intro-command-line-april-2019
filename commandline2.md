@@ -706,7 +706,7 @@ a directory called `revised-revised-results-3`.)
 > if she didn't use leading zeroes,
 > November ('11') would come before July ('7'). Similarly, putting the year first
 > means that June 2012 will come before June 2013.
-{: .callout}
+
 
 Each of her physical samples is labelled according to her lab's convention
 with a unique ten-character ID,
