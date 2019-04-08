@@ -120,41 +120,10 @@ A typical shell window looks something like:
 
 ~~~bash
 dri9634@DSSLOAN MINGW64 ~$ 
-dri9634@DSSLOAN MINGW64 ~$ ls -F
-'3D Objects'/
- AppData/
-'Application Data'@
- Contacts/
- Cookies@
- Desktop/
- Documents/
- Downloads/
- Favorites/
- IntelGraphicsProfiles/
- Links/
-'Local Settings'@
- MicrosoftEdgeBackups/
- Music/
-'My Documents'@
- NetHood@
- NTUSER.DAT
- ntuser.dat.LOG1
- ntuser.dat.LOG2
- NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TM.blf
- NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000001.regtrans-ms
- NTUSER.DAT{8ebe95f7-3dcb-11e8-a9d9-7cfe90913f50}.TMContainer00000000000000000002.regtrans-ms
- ntuser.ini
- ntuser.pol
- OneDrive/
- Pictures/
- PrintHood@
- Recent@
-'Saved Games'/
- Searches/
- SendTo@
-'Start Menu'@
- Templates@
- Videos/
+dri9634@DSSLOAN MINGW64 ~$ ls -F /
+bin/  dev/  git-bash.exe*  LICENSE.txt  proc/              tmp/          unins000.exe*  usr/
+cmd/  etc/  git-cmd.exe*   mingw64/     ReleaseNotes.html  unins000.dat  unins000.msg
+
 dri9634@DSSLOAN MINGW64 ~$
 ~~~
 
