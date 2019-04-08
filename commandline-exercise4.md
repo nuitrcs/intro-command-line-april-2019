@@ -36,7 +36,7 @@ If we run `sort -n` on the same input, we get this instead:
 
 Explain why `-n` has this effect.
 
-## What Does >> Mean
+## What Does Double Redirect Mean
 
 We have seen the use of `>`, but there is a similar operator `>>` which works slightly differently.
 We'll learn about the differences between these two operators by printing some strings.
