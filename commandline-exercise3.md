@@ -111,6 +111,17 @@ amino-acids.txt  animals.txt  backup/  elements/  morse.txt  pdb/  planets.txt  
 $ cp amino-acids.txt animals.txt morse.txt 
 ~~~
 
+## List filenames matching a pattern
+
+When run in the `molecules` directory, which `ls` command(s) will
+produce this output?
+
+`ethane.pdb   methane.pdb`
+
+1. `ls *t*ane.pdb`
+2. `ls *t?ne.*`
+3. `ls *t??ne.pdb`
+4. `ls ethane.*`
 
 ## More on Wildcards
 
