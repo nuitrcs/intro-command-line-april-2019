@@ -135,7 +135,7 @@ $ cat lengths.txt
 
 Now let's use the `sort` command to sort its contents.
 
-[Exercise](commandline-exercise4.md#What-Does-sort-n-Do)
+[Exercise](commandline-exercise4.md#What-Does-sort--n-Do)
 
 We will also use the `-n` flag to specify that the sort is
 numerical instead of alphanumerical.
