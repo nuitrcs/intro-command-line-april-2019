@@ -92,7 +92,7 @@ lines. Which command listed below would work?
 3. `wc -l * | head -n 3 | sort -n`
 4. `wc -l * | sort -n | head -n 3`
 
-## What Does < Mean
+## What Does the Opposite redirection sign Mean
 
 Change directory to `data-shell` (the top level of our downloaded example data).
 
