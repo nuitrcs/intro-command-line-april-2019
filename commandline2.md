@@ -4,6 +4,7 @@
 This is the material we'll cover during the second part of the workshop.  We may deviate a little, but we'll work from this.
 
 We'll continue working exclusively in Command line.  
+Note: We will use word directories, which is essentially the same as folders.
 
 Questions for this session:
 - "How can I move around on my computer?"
