@@ -192,7 +192,7 @@ the output of `head` must be the file with the fewest lines.
 > incorrect results and/or delete
 > the contents of `lengths.txt`.
 
-[Exercise](commandline-exercise4.md#What-Does->->-Mean)
+[Exercise](commandline-exercise4.md#What-Does-Double-redirect-Mean)
 
 [Exercise](commandline-exercise4.md#Appending-Data)
 
