@@ -1,18 +1,14 @@
 # Command Line - Introduction Workshop
 
-April 10, 2019
-
 # Prep
 
 ## Software
 
-Please install the following software on your laptop before the workshop.  If you have problems during installation, please arrive to the workshop early to get assistance.
-
-[Bash Shell](https://workshops.rcs.northwestern.edu/install/bash/)
+Mac users don't need to install anything.  Windows users, install a [Bash Shell](https://workshops.rcs.northwestern.edu/install/bash/) before the workshop.  
 
 ## Files
 
-In addition to the software above, you also need to download a .zip file that will guarantee the same environment for all participants.  
+In addition to the software above, you also need to download a .zip file with material we'll be using in the workshop.  
 
 [Download](https://github.com/nuitrcs/commandlineworkshop/blob/master/shell-novice-data.zip?raw=true)
 
