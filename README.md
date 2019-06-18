@@ -14,6 +14,8 @@ In addition to the software above, you also need to download a .zip file with ma
 
 Unzip this file and move the unzipped folder to your desktop.
 
+For reference during the workshop, the workshop mostly follows [Software Carpentry: An Introduction to the Unix Shell](https://swcarpentry.github.io/shell-novice/), although there are parts we skip.  
+
 
 
 # Resources
@@ -30,4 +32,4 @@ You can find links to additional resources in our main command line/bash reposit
 
 ## Acknowledgements
 
-Workshop material mostly follows [Software Carpentry: An introduction to the Unix Shell](https://swcarpentry.github.io/shell-novice/) material, which is used under the [Creative Commons BY 4.0 license](https://software-carpentry.org/license/). 
+Workshop material mostly follows [Software Carpentry: An Introduction to the Unix Shell](https://swcarpentry.github.io/shell-novice/) material, which is used under the [Creative Commons BY 4.0 license](https://software-carpentry.org/license/). 
