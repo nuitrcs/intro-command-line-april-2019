@@ -10,7 +10,7 @@ Mac users don't need to install anything.  Windows users, install a [Bash Shell]
 
 In addition to the software above, you also need to download a .zip file with material we'll be using in the workshop.  
 
-[Download](https://github.com/nuitrcs/commandlineworkshop/blob/master/shell-novice-data.zip?raw=true)
+[Download](https://github.com/nuitrcs/bash_hpc_workshops/blob/master/shell-novice-data.zip?raw=true)
 
 Unzip this file and move the unzipped folder to your desktop.
 
@@ -18,16 +18,16 @@ Unzip this file and move the unzipped folder to your desktop.
 
 # Resources
 
-You can find links to additional resources in our main workshop repositories:
+You can find links to additional resources in our main command line/bash repository:
 
-[Command Line](https://github.com/nuitrcs/commandlineworkshop)
+[Bash and HPC Workshops](https://github.com/nuitrcs/bash_hpc_workshops)
 
 
 ## Cheatsheets
 [Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) with just the essentials, plus short explanations of key concepts
 
-[vi Handout](https://nuitrcs.github.io/commandlineworkshop/vibasics.pdf): handout from the workshop
+[vi Handout](https://github.com/nuitrcs/bash_hpc_workshops/blob/master/vibasics.pdf?raw=true): handout from the workshop
 
 ## Acknowledgements
 
-Workshop material mostly follows [Software Carpentry](https://swcarpentry.github.io/shell-novice/) An introduction to the Unix shell material. 
+Workshop material mostly follows [Software Carpentry: An introduction to the Unix Shell](https://swcarpentry.github.io/shell-novice/) material, which is used under the [Creative Commons BY 4.0 license](https://software-carpentry.org/license/). 
