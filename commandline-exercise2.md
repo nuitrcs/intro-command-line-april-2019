@@ -1,6 +1,6 @@
-# Practice 3 
+# Practice Working With Files and Directories
 
-These are during-workshop exercises that correspond to the third command line script
+These are during-workshop exercises that correspond to the Working With Files and Directories Material
 
 ## Creating Files a Different Way
 
