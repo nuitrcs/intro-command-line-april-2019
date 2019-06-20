@@ -1,6 +1,6 @@
-# Practice 2
+# Practice Navigating Files and Directories
 
-These are during-workshop exercises that correspond to the second command line script
+These are during-workshop exercises that correspond to the Navigating Files and Directories material
 
 ## Exploring More ls Flags
 
