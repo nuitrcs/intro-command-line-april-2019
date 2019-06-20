@@ -1,4 +1,4 @@
-# Practice 4
+# Practice Pipes and Filters
 
 These are during-workshop exercises that correspond to the fourth command line script
 
