@@ -1,6 +1,6 @@
 # Practice Pipes and Filters
 
-These are during-workshop exercises that correspond to the fourth command line script
+These are during-workshop exercises that correspond to the Pipes and Filters material
 
 ## What Does sort -n Do?
 
